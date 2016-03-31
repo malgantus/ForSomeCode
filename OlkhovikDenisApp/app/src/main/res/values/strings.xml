@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OlkhovikDenisApp</string>
+    <string name="action_politic">Политика</string>
+    <string name="action_in_world">В мире</string>
+    <string name="action_economy">Экономика</string>
+    <string name="action_moscow">Москва</string>
+</resources>
